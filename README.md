@@ -1,4 +1,4 @@
-## Hi there 👋
+## Que ondaa
 
 <!--
 **lucasaree/lucasaree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>BIENVENID@ A LA MEJOR BIOGRAFIA DEL WORLD</h1>
+<h3>quien soy??</h3>
+<div>
+  <table>
+    <head>
+      <th>DESC. PERSONAL</th>
+    <head/>
+    <boddy>
+      <tr>
+        <td>Lucas Arenas</td>
+      </tr>
+  </table>
+</div>
