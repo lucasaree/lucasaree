@@ -40,7 +40,7 @@
           <li>🐵​tocar la guitarra como un profesional</li>
         </ol>
       </table>
-      <h2 align="center">dale clic acá, haceme caso</h2>
+      <h2 align="center">dale clic al auto, haceme caso</h2>
       <button><a href="https://youtu.be/lDK9QqIzhwk?si=UM_e5wBIij0D8ZbG" target="_blank"><img style="border:1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
