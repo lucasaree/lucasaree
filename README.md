@@ -11,7 +11,7 @@
   padding: 5px;
   width: 150px;"                                                              src="https://github.com/lucasaree/lucasaree/assets/171457284/4d5fc920-4c28-4e15-b9cc-f742ab7040f6"></button>
       <h3 align="center">🐵​Descripcion rapida mia🐵​</h3>
-        <h4>Soy estudiante de secundaria, promo 24 en el colegio de la Divina Misericordia de Salta capital (ARGENTINA)
+        <h4>Soy estudiante de secundaria, tengo 17 años y voy al colegio de la Divina Misericordia de Salta capital (ARGENTINA)
           me meti a un curso de programacion html, css y js llamado generacion t. Y estoy explorando este mundo para ver si
           el año que viene estudio algo relacionado.</h4> 
     </div>  
